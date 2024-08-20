@@ -38,7 +38,7 @@ function DatatableComponent({ listadoClientes, capturarInformacion, deleteClient
             ),
             cell: (row) => (
                 <img
-                    src={"http://localhost:9001/img/" + row.perfil}
+                    src={"https://test-back-ve7x.onrender.com/img/" + row.perfil}
                     alt="Perfil"
                     style={{ width: "50px", height: "50px", borderRadius: "50%" }}
                 />

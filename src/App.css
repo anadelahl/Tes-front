@@ -1,0 +1,10 @@
+.content {
+    padding: 4;
+    border-width: 2px;
+    background: white;
+    border-radius: 0.5rem;
+    border-color: rgb(55 65 81 / var(--tw-border-opacity));
+    margin-top: 0.75rem;
+    width: 90%;
+    margin-left: 5%;
+}
